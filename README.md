@@ -51,17 +51,13 @@ You'll need the following installed:
 ### Installation
 Clone the repository:
 
-```Bash```
+```Bash git clone [Your-Repository-URL]```
+```cd pmacct-flow-classifier-gui```
 
-git clone [Your-Repository-URL]
-cd pmacct-flow-classifier-gui
 Install the required Python packages:
 The project relies on libraries like PyQt5, pandas, and scikit-learn. Install them using pip:
 
-
-Bash
-
-pip install -r requirements.txt
+```Bash pip install -r requirements.txt```
 (Note: You will need to create a requirements.txt file listing all dependencies.)
 
 Set up IP Info Token (Optional):
