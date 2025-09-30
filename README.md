@@ -1,18 +1,11 @@
 ## PMACCT Flow Application Classification GUI
 📝 Description
-The 
 
-PMACCT Flow Application Classification GUI is a desktop application designed to streamline the process of training and testing machine learning classifiers on network flow data collected using pmacct.
+The PMACCT Flow Application Classification GUI is a desktop application designed to streamline the process of training and testing machine learning classifiers on network flow data collected using pmacct.
 
 This tool provides an intuitive 
 
-Python/Qt GUI that allows users to easily upload and combine multiple flow data CSV files, perform necessary data pre-processing (like IP lookup and flow duration calculation), select specific flow features, and train a classification model. The target variable for the classification models is the application label (
-
-
-
-
-
-CLASS) provided by nDPI (Network Deep Packet Inspection).
+Python/Qt GUI that allows users to easily upload and combine multiple flow data CSV files, perform necessary data pre-processing (like IP lookup and flow duration calculation), select specific flow features, and train a classification model. The target variable for the classification models is the application label (CLASS) provided by nDPI (Network Deep Packet Inspection).
 
 
 ✨ Key Features
