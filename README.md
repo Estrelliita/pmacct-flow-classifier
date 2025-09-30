@@ -42,20 +42,16 @@ This tool provides an intuitive Python/Qt GUI that allows users to easily upload
 ## 🚀 Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
-Prerequisites
+### Prerequisites
 You'll need the following installed:
+* Python 3.x
+* pip (Python package installer)
+* curl (required for the IP geographic lookup subprocess) 
 
-Python 3.x
-
-pip (Python package installer)
-
-
-curl (required for the IP geographic lookup subprocess) 
-
-Installation
+### Installation
 Clone the repository:
 
-Bash
+```Bash```
 
 git clone [Your-Repository-URL]
 cd pmacct-flow-classifier-gui
